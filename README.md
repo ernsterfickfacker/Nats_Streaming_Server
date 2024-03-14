@@ -9,7 +9,8 @@ createDB.sql
 
 Result:
 
-<img width="918" alt="L0" src="https://github.com/ernsterfickfacker/Nats_Streaming_Server/assets/93219479/9da00805-f01e-4c21-a6f5-a649213ac8d5">
+![image](https://github.com/ernsterfickfacker/Nats_Streaming_Server/assets/93219479/85250367-2992-4559-82e1-a184e66950ed)
+
 
 
 
