@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  db:
+    image: "postgres:latest"
+    ports:
+      - 5432:5432
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: postgres
+
+  nats:
+    image: nats-streaming:0.16.2
+    ports:
+      - "4222:4222"
+    hostname: nats-server

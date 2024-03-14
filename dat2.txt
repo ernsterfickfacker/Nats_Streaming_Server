@@ -1,0 +1,49 @@
+{
+  "order_uid": "AfKKbEbFfyDUrcLtest",
+  "track_number": "TEST2_TRACK_WB",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Vitaly Yagodkin",
+    "phone": "+8001007505",
+    "zip": "WIoPtCq",
+    "city": "Cheboksary",
+    "address": "Moskovsky Prospekt 5",
+    "region": "Chuvashia",
+    "email": "yagodkin@mail.com"
+  },
+  "payment": {
+    "transaction": "AfKKbEbFfyDUrcLtest",
+    "request_id": "",
+    "currency": "RUB",
+    "provider": "wbpay",
+    "amount": 5000,
+    "payment_dt": 1637907727,
+    "bank": "cheb_bank",
+    "delivery_cost": 500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 1034931,
+      "track_number": "TEST2_TRACK_WB",
+      "price": 400,
+      "rid": "ab4219087a764ae0btest",
+      "name": "sneakers",
+      "sale": 30,
+      "size": "40",
+      "total_price": 317,
+      "nm_id": 2389211,
+      "brand": "ecco",
+      "status": 202
+    }
+  ],
+  "locale": "en",
+  "internal_signature": "",
+  "customer_id": "test2",
+  "delivery_service": "meest",
+  "shardkey": "2",
+  "sm_id": 21,
+  "date_created": "2024-03-13T06:55:19Z",
+  "oof_shard": "2"
+}
